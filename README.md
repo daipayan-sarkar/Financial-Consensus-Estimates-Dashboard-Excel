@@ -1,6 +1,6 @@
 # Consensus Estimates Analysis Dashboard
 
-![Excel Dashboard Preview](dashboard-preview.png)  
+![Excel Dashboard Preview](Screenshot-dashboard.png)  
 
 ## 📋 Project Overview
 
@@ -8,7 +8,7 @@ This project simulates real-world **Consensus Estimates** workflows and demonstr
 
 ## 🎯 Key Objectives
 
-- Replicate the process of collecting broker estimates for EPS and Revenue
+- Collecting broker estimates for EPS and Revenue
 - Calculate accurate consensus metrics (mean, median, high, low, # of estimates)
 - Perform Year-over-Year (YoY) growth analysis
 - Deliver insights through Pivot Tables and an Executive Dashboard
